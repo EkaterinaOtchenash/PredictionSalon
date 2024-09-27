@@ -1,0 +1,89 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "PredictionLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/PredictionLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PredictionLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PredictionLibrary/1.0.0": {
+      "type": "project",
+      "path": "../PredictionLibrary/PredictionLibrary.csproj",
+      "msbuildProject": "../PredictionLibrary/PredictionLibrary.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "PredictionLibrary >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/home/ekaterina-zhabrova/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/home/ekaterina-zhabrova/Documents/Попытки/paok/PredictionSalon2/Salon/Salon.csproj",
+      "projectName": "Salon",
+      "projectPath": "/home/ekaterina-zhabrova/Documents/Попытки/paok/PredictionSalon2/Salon/Salon.csproj",
+      "packagesPath": "/home/ekaterina-zhabrova/.nuget/packages/",
+      "outputPath": "/home/ekaterina-zhabrova/Documents/Попытки/paok/PredictionSalon2/Salon/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/home/ekaterina-zhabrova/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "/home/ekaterina-zhabrova/Documents/Попытки/paok/PredictionSalon2/PredictionLibrary/PredictionLibrary.csproj": {
+              "projectPath": "/home/ekaterina-zhabrova/Documents/Попытки/paok/PredictionSalon2/PredictionLibrary/PredictionLibrary.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.108/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

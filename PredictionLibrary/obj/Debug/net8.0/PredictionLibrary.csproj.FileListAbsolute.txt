@@ -1,0 +1,11 @@
+/home/ekaterina-zhabrova/Documents/Попытки/paok/PredictionSalon2/PredictionLibrary/bin/Debug/net8.0/PredictionLibrary.deps.json
+/home/ekaterina-zhabrova/Documents/Попытки/paok/PredictionSalon2/PredictionLibrary/bin/Debug/net8.0/PredictionLibrary.dll
+/home/ekaterina-zhabrova/Documents/Попытки/paok/PredictionSalon2/PredictionLibrary/bin/Debug/net8.0/PredictionLibrary.pdb
+/home/ekaterina-zhabrova/Documents/Попытки/paok/PredictionSalon2/PredictionLibrary/obj/Debug/net8.0/PredictionLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/home/ekaterina-zhabrova/Documents/Попытки/paok/PredictionSalon2/PredictionLibrary/obj/Debug/net8.0/PredictionLibrary.AssemblyInfoInputs.cache
+/home/ekaterina-zhabrova/Documents/Попытки/paok/PredictionSalon2/PredictionLibrary/obj/Debug/net8.0/PredictionLibrary.AssemblyInfo.cs
+/home/ekaterina-zhabrova/Documents/Попытки/paok/PredictionSalon2/PredictionLibrary/obj/Debug/net8.0/PredictionLibrary.csproj.CoreCompileInputs.cache
+/home/ekaterina-zhabrova/Documents/Попытки/paok/PredictionSalon2/PredictionLibrary/obj/Debug/net8.0/PredictionLibrary.dll
+/home/ekaterina-zhabrova/Documents/Попытки/paok/PredictionSalon2/PredictionLibrary/obj/Debug/net8.0/refint/PredictionLibrary.dll
+/home/ekaterina-zhabrova/Documents/Попытки/paok/PredictionSalon2/PredictionLibrary/obj/Debug/net8.0/PredictionLibrary.pdb
+/home/ekaterina-zhabrova/Documents/Попытки/paok/PredictionSalon2/PredictionLibrary/obj/Debug/net8.0/ref/PredictionLibrary.dll

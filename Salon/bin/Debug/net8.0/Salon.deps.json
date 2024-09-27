@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Salon/1.0.0": {
+        "dependencies": {
+          "PredictionLibrary": "1.0.0"
+        },
+        "runtime": {
+          "Salon.dll": {}
+        }
+      },
+      "PredictionLibrary/1.0.0": {
+        "runtime": {
+          "PredictionLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Salon/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PredictionLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
