@@ -5,25 +5,20 @@ using System.Threading.Tasks;
 
 namespace PredictionLibrary.Predictions
 {
-    public interface IPredictionType
-    {
-        Prediction GetPrediction();
-    }
-
-    public class PositivePrediction : IPredictionType
+    public class NegativePrediction : IPredictionType
     {
         private static readonly List<string> Predictions = new List<string>
         {
-            "Сегодня вас ждет удача!",
-            "Ваши мечты сбудутся.",
-            "Сегодня идеальный день для новых начинаний."
+            "Сегодня может случиться что-то неприятное.",
+            "Берегитесь трудностей.",
+            "Будьте осторожны, удача не на вашей стороне."
         };
 
         public Prediction GetPrediction()
         {
             Random random = new Random();
             string predictionText = Predictions[random.Next(Predictions.Count)];
-            return new Prediction(predictionText, "Positive");
+            return new Prediction(predictionText, "Negative");
         }
     }
 }
